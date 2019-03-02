@@ -1,0 +1,10 @@
+INPUT: TestCases , Row, Col,Search , Grid
+1 
+5
+5
+I,R,A,G,E
+I,R,I,R,E
+A,E,A,G,I
+G,A,G,R,R
+E,R,A,I,A
+I,G,E,G,E
